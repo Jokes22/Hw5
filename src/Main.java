@@ -81,8 +81,8 @@ public class Main {
             case 12:
             case 1:
             case 2:
-            System.out.println("Зима");
-            break;
+                System.out.println("Зима");
+                break;
             case 3:
             case 4:
             case 5:
@@ -101,10 +101,7 @@ public class Main {
             default:
                 System.out.println(monthNumber + " Такого месяца нет");
         }
-
     }
-
-
 }
 
 
